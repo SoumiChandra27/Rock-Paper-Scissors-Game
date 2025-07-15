@@ -1,0 +1,32 @@
+*{
+    background-color: #ECF39E;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: #132A13;
+     line-height: 5rem;
+}
+.first {  
+    background-image: url("image1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 450px;
+    width: 600px;
+    padding-left: 60%;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+    color: #132A13;;
+    font-weight: bold;
+}
+.second{
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    margin-top: 2rem;
+}
